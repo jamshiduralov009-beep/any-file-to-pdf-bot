@@ -1,0 +1,31 @@
+# Environment variables
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Temporary user uploads and generated PDFs
+temp_uploads/
+*.pdf
+
+# Internal deployment and test scripts
+deploy_to_pa.py
+test_*.py
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
